@@ -1,0 +1,366 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.Main_images{
+  margin-left: 30px;
+  margin-top: 20px;
+ 
+}
+
+ul{
+  margin-top: -35px;
+margin-left: 330px;
+  display: flex;
+  gap: 25px;
+}
+li{
+  list-style: none;
+}
+.img{
+  margin-top: -10px;
+  margin-left: 70px;
+  width: 240px;
+  height: 40px;
+}
+.Main_cart{
+  margin-top: -10px;
+  width: 110px;
+  height: 40px;
+}
+.Main{
+  position: absolute;
+  margin-top: 40px;
+  width: 1349px;
+}
+.Main_bgc{
+  margin-top: 40px;
+position: absolute;
+width: 1349px;
+}
+.Main_p{
+  margin-left: 190px;
+  margin-top: 220px;
+  position: absolute;
+  color:  #68A47F;
+  }
+  .Main_h{
+    font-size: 50px;
+    margin-left: 190px;
+  margin-top: 250px;
+  position: absolute;
+  color:   #274C5B;
+  ;
+  }
+  .Main_b{
+    font-size: 10px;
+    margin-left: 190px;
+  margin-top: 440px;
+  position: absolute;
+    color:  black;
+    background: #EFD372;
+border: none;
+width: 140px;
+height: 40px;
+border-radius: 10px;
+   }
+   .container2{
+    position: relative;
+    margin-top: 800px;
+    margin-left: 160px;
+    
+   }
+.Main___images{
+  width: 500px;
+  height: 260px;
+}
+.Main__img{
+  width: 500px;
+  height: 260px;
+  margin-left: 40px;
+}
+.Main__p{
+  font-size: 25px;
+  position: absolute;
+  margin-top: -170px;
+  color: white;
+  margin-left: 40px;
+}
+.Main__h{
+  font-size: 25px;
+  position: absolute;
+  margin-top: -130px;
+  color: white;
+  margin-left: 40px;
+}
+.p{
+  font-size: 25px;
+  position: absolute;
+  margin-top: -170px;
+  
+  margin-left: 580px;
+  color:  #7EB693;
+  
+}
+.h1{
+  font-size: 25px;
+  position: absolute;
+  margin-top: -130px;
+  color:  #274C5B;
+    margin-left: 580px;
+}
+.Main__section{
+  margin-top: 130px;
+  width: 1349px;
+  height: 800px;
+  background: #F9F8F8;
+}
+.Main-section-img{
+  position: absolute;
+  width: 1300px;
+  height: 7 00px;
+}
+.main-section_p{
+  font-size: 36px;
+  margin-top: 150px;
+  margin-left: 660px;
+  position: absolute;
+  color: #7EB693;
+}
+.main_section_h{
+  color: #274C5B;
+  font-size: 36px;
+  margin-top: 200px;
+  margin-left: 660px;
+  position: absolute;
+  }
+  .Main_section_p{
+    color: #274C5B;
+  font-size: 20px;
+  margin-top: 290px;
+  margin-left: 660px;
+  position: absolute;
+  }
+  .main_section_card_titil{
+    margin-left: 95px;
+    margin-top: -80px;
+    color: #274C5B;
+    font-size: 25px;
+  }
+  .main_section_card_p{
+    color: #525C60;
+    margin-left: 95px;
+  }
+  .Main-section_card{
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 660px;
+  }
+  .Icon{
+    width: 90px;
+    height: 90px;
+  }
+  .Main-section_card2{
+    position: absolute;
+    margin-top: -290px;
+    margin-left: 660px;
+  }
+  .Main_Section_b{
+    margin-top: 30px;
+   width: 120px;
+height: 49px;
+border-radius: 16px;
+background: #273033;
+color: white;
+  }
+  .Shop_titil{
+    margin-top: 160px;
+    color: #7EB693;
+    text-align: center;
+
+  }
+  .Shop_titil_titil{
+   font-size: 50px;
+    color:  #274C5B;
+    ;
+    text-align: center;
+  }
+  .vegatable{
+    margin-left: 20px;
+    position: absolute;
+    margin-top: 20px;
+    width: 80px;
+    height: 30px;
+    background: #274C5B;
+border-radius: 14px;
+text-align: center;
+color: white;
+  }
+  .Card{
+    margin-top: 30px;
+    margin-left: 120px;
+    display: flex;
+    gap: 10px;
+    }
+    .imag{
+      width: 270px;
+    }
+    .Card2{
+      margin-top: 30px;
+      margin-left: 120px;
+      display: flex;
+      gap: 10px;
+      }
+      .Shop_btn{
+        margin-left: 500px;
+        position: absolute;
+        margin-top: 500px;
+        border-radius: 14px;
+        width: 120px;
+        height: 50px;
+        color: white;
+        background: #274C5B;
+      }
+      .bgcc{
+        
+        margin-top: 300px;
+        width: 1349px;
+      }
+      .Shop_Testimonial{
+      margin-left: 600px;
+        margin-top: -750px;
+position: absolute;
+        color: #7EB693;
+
+      }
+      .Sh_titil{
+        color: #274C5B;
+        margin-left: 480px;
+        margin-top: -700px;
+position: absolute;
+      }
+      .Shop_Avatar{
+        margin-left: -730px;
+        margin-top: 570px;
+position: absolute;
+      }
+  .Shop_Star{
+    margin-left: -730px;
+        margin-top: 700px;
+        position: absolute;
+  }
+  .Sh_p{
+    margin-left: 430px;
+        margin-top: -440px;
+        position: absolute;
+  }
+  .sh_t{
+    margin-left: 600px;
+        margin-top: -380px;
+        position: absolute;
+        color: #37535e;
+  }
+  .Sp_Consumer{
+    margin-left: 650px;
+    margin-top: -340px;
+    position: absolute;
+    color: #496c7a;
+  }
+  .mode{
+    display: flex;
+    gap: 20px;
+    margin-left: 360px;
+    margin-top: -200px;
+  }
+  .Chart{
+        width: 150px;
+  }
+  .Table_1{
+    margin-left: 25px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: 40px;
+    color: #274C5B;
+  }
+  .Table_2{
+    margin-left: 215px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: 40px;
+    color: #274C5B;
+  }
+  .Table_3{
+    margin-left: 380px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: 40px;
+    color: #274C5B;
+  }
+  .Table_4{
+    margin-left: 560px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: 40px;
+    color: #274C5B;
+  }
+  .Table_1_1{
+    margin-left: 45px;
+    margin-top: 85px;
+    position: absolute;
+    color: #274C5B;
+
+  }
+  .Table_2_2{
+    margin-left: 200px;
+    margin-top: 85px;
+    position: absolute;
+    color: #274C5B;
+
+  }
+  .Table_3_3{
+    margin-left: 364px;
+    margin-top: 85px;
+    position: absolute;
+    color: #274C5B;
+
+  }
+  .Table_4_4{
+    margin-left: 534px;
+    margin-top: 85px;
+    position: absolute;
+    color: #274C5B;
+
+  }
+  .container4{
+    width: 1349px;
+    height: 800px;
+    background: #274C5B;
+  }
+  .Futer_P{
+    margin-left: 130px;
+    margin-top: 200px;
+    position: absolute;
+    font-size: 36px;
+    color: #7EB693;
+
+  }
+  .Futer_h{
+    margin-left: 130px;
+    margin-top: 250px;
+    position: absolute;
+    color: white;
+  }
+  .Futer_b{
+    margin-top: 240px;
+    margin-left: 980px;
+    width: 200px;
+    height: 50px;
+    background: #EFD372;
+border-radius: 15px;
+border: none;
+  }
+  .content{
+    margin-top: 40px;
+    margin-left: 130px;
+  }
